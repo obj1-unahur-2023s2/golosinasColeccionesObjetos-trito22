@@ -7,4 +7,3 @@ object alfajor {
 	//completar
 }
 
-// Completar el resto de las golosinas
